@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49d7bbe173127fDc14DcD191d7034096E2FFe3Ff",
+  "SCAN_LINK": "https://polygonscan.com/address/0x49d7bbe173127fdc14dcd191d7034096e2ffe3ff",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BOODLES BUNNY",
+  "SYMBOL": "BBY",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.35,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boodles-bunny",
+  "SHOW_BACKGROUND": true
+}
